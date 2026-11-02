@@ -49,15 +49,6 @@ Trang GitHub này là nơi mình lưu trữ các mã nguồn mở, bài thực h
 
 ---
 
-### 📊 Thống kê Hoạt động GitHub (GitHub Activity)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phuclovechip&show_icons=true&theme=tokyonight&hide_border=true" alt="Phuclovechip's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuclovechip&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
 ### 📫 Kết nối với mình (Connect with Me)
 
 Mình luôn sẵn sàng học hỏi, trao đổi học thuật và hợp tác trong các dự án về **IC Design, FPGA và Embedded Systems**:
