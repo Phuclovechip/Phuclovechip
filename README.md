@@ -61,6 +61,6 @@ Trang GitHub này là nơi mình lưu trữ các mã nguồn mở, bài thực h
 ### 📫 Kết nối với mình (Connect with Me)
 
 Mình luôn sẵn sàng học hỏi, trao đổi học thuật và hợp tác trong các dự án về **IC Design, FPGA và Embedded Systems**:
-* 🏫 **Đơn vị:** Lớp 25VDT - Khoa Điện tử Viễn thông, Trường Đại học Bách Khoa - ĐH Đà Nẵng (DUT).
+* 🏫 **Đơn vị:** Lớp 25VDT - Khoa Điện tử - Trí Tuệ Nhân Tạo, Trường Đại học Bách Khoa - ĐH Đà Nẵng (DUT).
 * 💻 **GitHub:** [github.com/Phuclovechip](https://github.com/Phuclovechip)
 * 📧 **Email:** *[Cậu điền địa chỉ email của cậu vào đây nhé]*
